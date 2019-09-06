@@ -23,3 +23,9 @@ To avoid this problem, the following methodes were implemented:
 Any question or recomendation feel free to write me to: 
 williamkodi@gmail.com
 
+
+
+https://csharp.hotexamples.com/examples/InTheHand.Net.Sockets/BluetoothClient/Connect/php-bluetoothclient-connect-method-examples.html
+
+
+EXAMPLE #8
